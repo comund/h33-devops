@@ -9,13 +9,13 @@ To get started with the H33-DevOps repository on your local machine, follow the 
 
 ### Working with the Repo
 
--  **Clone the Repository**: Open a command prompt or Git Bash terminal.
+-  **Clone the Repository**: Open a command prompt or Git Bash terminal.  --LITERALLY DO THE THING IT TELLS YOU TO DO RIGHT HERE
     
 	```bash
      git clone https://github.com/your-username/h33-devops.git
 	``` 
     
--   **Navigate to the Repository**: Change your working directory to the cloned repository.
+-   **Navigate to the Repository**: Change your working directory to the cloned repository.   -- AND RIGHT HERE - GOTO THE LESSON FOLDER
 	```bash
      cd h33-devops
 	``` 
@@ -31,3 +31,11 @@ To get started with the H33-DevOps repository on your local machine, follow the 
 - [Help topics](https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup) for git
 - [git cheat sheet](https://training.github.com/downloads/github-git-cheat-sheet/) 
 - [Markdown Syntax Guide](https://www.markdownguide.org/basic-syntax).
+
+
+IF STUCK READ THIS !!!!!!!!!!!!!!!!!!!!!!!!!!
+IF STUCK READ THIS !!!!!!!!!!!!!!!!!!!!!!!!!!
+IF STUCK READ THIS !!!!!!!!!!!!!!!!!!!!!!!!!!
+IF STUCK READ THIS !!!!!!!!!!!!!!!!!!!!!!!!!!
+IF STUCK READ THIS !!!!!!!!!!!!!!!!!!!!!!!!!!
+IF STUCK READ THIS !!!!!!!!!!!!!!!!!!!!!!!!!!
